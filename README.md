@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **fullstack developer** who loves creating great solutions. I'm also a **UX Designer enthusiast** who loves prototyping beautiful ans usefull web and mobile design systems.
+I'm a **fullstack developer** who loves creating great solutions. I'm also a **UX Designer enthusiast** who loves prototyping beautiful and usefull for web and mobile.
 
 ---
 
