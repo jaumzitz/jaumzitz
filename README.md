@@ -12,7 +12,7 @@ I'm a **fullstack developer** who loves creating great solutions. I'm also a **U
 - Supabase
 
 ### 🌱 Studying
-I'm currently studying DevOps (CI/CD, testing, AWS) while 
+I'm currently studying DevOps (CI/CD, testing, AWS) 
 
 ### 🗨️ Languages
 - English
