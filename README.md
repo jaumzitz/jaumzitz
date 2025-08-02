@@ -1,6 +1,25 @@
-## Hi there 👋
+### Hi there 👋
 
+I'm a **fullstack developer** who loves creating great solutions. I'm also a **UX Designer enthusiast** who loves prototyping beautiful ans usefull web and mobile design systems.
+
+---
+
+### 💻 Tech stack
+- React | Node.js  
+- SQL | NoSQL
+- PL/SQL | Oracle DB | Oracle Rest Data Services
+- REST | SOAP
+- Supabase
+
+### 🌱 Studying
+I'm currently studying DevOps (CI/CD, testing, AWS) while 
+
+### 🗨️ Languages
+- English
+- Portuguese (native)
 <!--
+
+##
 **jaumzitz/jaumzitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
